@@ -1,5 +1,7 @@
 # CS 4641 Project: Artificial Neural Intelligence Machine Entity
 
+by Abhay Sheshadri, Sainitin Daverpally, Nick Chapman, Abdul Sayed, Kevin Xiao
+
 ### Introduction/Background: 
 Our idea is to create an AI model that colorizes and upscales a low-resolution black-and-white anime portrait image.  The people have been starved of colored content for their black and white manga pictures. The only way to see a manga page colored is either to color it yourself or to wait for the anime adaptation/anime release of that chapter. However, a vast majority of manga readers only have beginner/no artistic skills and waiting for the anime adaptation requires long waits. Especially when there are low quality scans of various manga on the internet, there is great demand to both color and upscale them for western consumer use.
 
