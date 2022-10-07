@@ -34,8 +34,12 @@ https://onedrive.live.com/view.aspx?resid=FDDA84B319FFA688!83348&ithint=file%2cx
 ### Video: 
 
 
-References:
+### References:
+
 [1] Richardson, E., Alaluf, Y., Patashnik, O., Nitzan, Y., Azar, Y., Shapiro, S., & Cohen-Or, D.. (2020). Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.
+
 [2] Ling, H., Kreis, K., Li, D., Kim, S., Torralba, A., & Fidler, S.. (2021). EditGAN: High-Precision Semantic Image Editing.
+
 [3] Menon, S., Damian, A., Hu, S., Ravi, N., & Rudin, C.. (2020). PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.
+
 [4] Zhang, R., Isola, P., Efros, A., Shechtman, E., & Wang, O.. (2018). The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.
