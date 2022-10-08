@@ -29,10 +29,10 @@ Image_Size: 256x256 pixels
 Number Of Images: 226,037
 
 ### GANTT
-https://onedrive.live.com/view.aspx?resid=FDDA84B319FFA688!83348&ithint=file%2cxlsx&authkey=!AHuEvXf-Bykv6ng
+Click [here](https://onedrive.live.com/view.aspx?resid=FDDA84B319FFA688!83348&ithint=file%2cxlsx&authkey=!AHuEvXf-Bykv6ng) for our GANTT chart.
 
 ### Video: 
-
+Click [here](https://youtu.be/vm-ULbIKcms) for the video of our proposal.
 
 ### References:
 
