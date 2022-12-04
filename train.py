@@ -10,7 +10,7 @@ import glob
 import os
 
 hyperparams = {
-    "num_epochs": 10,
+    "num_epochs": 100,
     "batch_size": 32,
     "learning_rate": 0.001,
     "resize": (32, 32),
