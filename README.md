@@ -47,6 +47,10 @@ Number Of Images: 226,037
 
 Click [here](https://onedrive.live.com/view.aspx?resid=FDDA84B319FFA688!83348&ithint=file%2cxlsx&authkey=!AHuEvXf-Bykv6ng) for our GANTT chart.
 
+### Contributions Chart
+
+Click [here](https://gtvault.sharepoint.com/:x:/s/MLA.N.I.M.EProject/EZ1iOfVVKJxIiwB5AMjXszoBMY0VTNDXe1CdcyG_kcXUYA?e=1Q5LLx) for our contributions chart
+
 ### Video:
 
 Click [here](https://youtu.be/vm-ULbIKcms) for the video of our proposal.
